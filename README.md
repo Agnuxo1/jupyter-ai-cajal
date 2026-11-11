@@ -2,6 +2,10 @@
 
 Use CAJAL as a **Custom Persona** in Jupyter AI to generate scientific papers directly from Jupyter notebooks.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The CAJAL persona brings structured manuscript drafting into the notebook environment already used for analysis. A reusable persona and local Ollama configuration can reduce repeated prompt setup and switching between separate writing tools. The <a href="#quick-setup">documented setup</a> supports workflow continuity; notebook results must remain the source of factual claims, and generated manuscript content requires review.</sub>
+<!-- impact-note:end -->
+
 ## Quick Setup
 
 ### 1. Install Jupyter AI
